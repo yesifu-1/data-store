@@ -1,9 +1,61 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
   <diagram name="第 1 页" id="QM8vSEi90H7QKI8r8Bu8">
-    <mxGraphModel>
+    <mxGraphModel dx="1075" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2uPkbhh_occvSilXfOJq-2" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=0;horizontal=0;horizontalStack=1;" value="" vertex="1">
+          <mxGeometry height="150" width="380" x="150" y="240" as="geometry">
+            <mxRectangle height="150" width="40" x="150" y="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uPkbhh_occvSilXfOJq-3" parent="2uPkbhh_occvSilXfOJq-2" style="swimlane;startSize=30;" value="2025-09至2025-11" vertex="1">
+          <mxGeometry height="150" width="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2uPkbhh_occvSilXfOJq-8" parent="2uPkbhh_occvSilXfOJq-3" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 14px; text-align: left;&quot;&gt;收集相关文献资料，学习相关理论&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="10" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uPkbhh_occvSilXfOJq-5" parent="2uPkbhh_occvSilXfOJq-2" style="swimlane;startSize=30;" value="2025-11&#xa;至 2025-12" vertex="1">
+          <mxGeometry height="150" width="120" x="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2uPkbhh_occvSilXfOJq-11" parent="2uPkbhh_occvSilXfOJq-5" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 14px; text-align: left;&quot;&gt;收集相关文献资料，学习相关理论&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="5" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uPkbhh_occvSilXfOJq-4" parent="2uPkbhh_occvSilXfOJq-2" style="swimlane;startSize=30;" value="2026-01&#xa;至 2026-03" vertex="1">
+          <mxGeometry height="150" width="130" x="250" as="geometry" />
+        </mxCell>
+        <mxCell id="2uPkbhh_occvSilXfOJq-18" parent="2uPkbhh_occvSilXfOJq-4" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:&amp;quot;微软雅黑&amp;quot;,sans-serif;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;实现&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&lt;br/&gt;12.0pt;font-family:&amp;quot;微软雅黑&amp;quot;,sans-serif;mso-bidi-font-family:微软雅黑;mso-font-kerning:&lt;br/&gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;融合视觉增强信息的混合推理框架&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="114" x="10" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uPkbhh_occvSilXfOJq-6" parent="1" style="swimlane;startSize=30;" value="2026-04&#xa;至 2026-06" vertex="1">
+          <mxGeometry height="150" width="130" x="530" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="2uPkbhh_occvSilXfOJq-21" parent="2uPkbhh_occvSilXfOJq-6" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:&amp;quot;微软雅黑&amp;quot;,sans-serif;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;实现&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&lt;br/&gt;12.0pt;font-family:&amp;quot;微软雅黑&amp;quot;,sans-serif;mso-bidi-font-family:微软雅黑;mso-font-kerning:&lt;br/&gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;融合视觉增强信息的混合推理框架&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="114" x="6" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uPkbhh_occvSilXfOJq-22" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=0;horizontal=0;horizontalStack=1;" value="" vertex="1">
+          <mxGeometry height="150" width="380" x="224" y="420" as="geometry">
+            <mxRectangle height="150" width="40" x="150" y="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uPkbhh_occvSilXfOJq-23" parent="2uPkbhh_occvSilXfOJq-22" style="swimlane;startSize=30;" value="2026-07&#xa;至 2026-10" vertex="1">
+          <mxGeometry height="150" width="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2uPkbhh_occvSilXfOJq-24" parent="2uPkbhh_occvSilXfOJq-23" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size:10.5pt;font-family:&amp;quot;微软雅黑&amp;quot;,sans-serif;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;将视觉增强数据和自适应路径的技术成果作用于重庆师范大学师道汉韵大模型系统&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="120" x="5" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="2uPkbhh_occvSilXfOJq-25" parent="2uPkbhh_occvSilXfOJq-22" style="swimlane;startSize=30;" value="2026-10&#xa;至 2026-03" vertex="1">
+          <mxGeometry height="150" width="120" x="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2uPkbhh_occvSilXfOJq-26" parent="2uPkbhh_occvSilXfOJq-25" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size:10.5pt;font-family:&amp;quot;微软雅黑&amp;quot;,sans-serif;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;归纳理论结果，完成论文撰写&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="5" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uPkbhh_occvSilXfOJq-27" parent="2uPkbhh_occvSilXfOJq-22" style="swimlane;startSize=30;" value="2026-05&#xa;至 2026-06" vertex="1">
+          <mxGeometry height="150" width="130" x="250" as="geometry" />
+        </mxCell>
+        <mxCell id="2uPkbhh_occvSilXfOJq-28" parent="2uPkbhh_occvSilXfOJq-27" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size:10.5pt;font-family:&amp;quot;微软雅黑&amp;quot;,sans-serif;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;根据送审意见修改论文，完成学位答辩&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="10" y="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
