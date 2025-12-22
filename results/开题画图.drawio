@@ -13,25 +13,25 @@
           <mxGeometry height="150" width="130" as="geometry" />
         </mxCell>
         <mxCell id="2uPkbhh_occvSilXfOJq-8" parent="2uPkbhh_occvSilXfOJq-3" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 14px; text-align: left;&quot;&gt;收集相关文献资料，学习相关理论&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="110" x="10" y="60" as="geometry" />
+          <mxGeometry height="70" width="110" x="10" y="50" as="geometry" />
         </mxCell>
         <mxCell id="2uPkbhh_occvSilXfOJq-5" parent="2uPkbhh_occvSilXfOJq-2" style="swimlane;startSize=30;" value="2025-11&#xa;至 2025-12" vertex="1">
           <mxGeometry height="150" width="120" x="130" as="geometry" />
         </mxCell>
         <mxCell id="2uPkbhh_occvSilXfOJq-11" parent="2uPkbhh_occvSilXfOJq-5" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 14px; text-align: left;&quot;&gt;收集相关文献资料，学习相关理论&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="110" x="5" y="60" as="geometry" />
+          <mxGeometry height="70" width="110" x="5" y="50" as="geometry" />
         </mxCell>
         <mxCell id="2uPkbhh_occvSilXfOJq-4" parent="2uPkbhh_occvSilXfOJq-2" style="swimlane;startSize=30;" value="2026-01&#xa;至 2026-03" vertex="1">
           <mxGeometry height="150" width="130" x="250" as="geometry" />
         </mxCell>
         <mxCell id="2uPkbhh_occvSilXfOJq-18" parent="2uPkbhh_occvSilXfOJq-4" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:&amp;quot;微软雅黑&amp;quot;,sans-serif;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;实现&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&lt;br/&gt;12.0pt;font-family:&amp;quot;微软雅黑&amp;quot;,sans-serif;mso-bidi-font-family:微软雅黑;mso-font-kerning:&lt;br/&gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;融合视觉增强信息的混合推理框架&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="114" x="10" y="60" as="geometry" />
+          <mxGeometry height="70" width="114" x="8" y="50" as="geometry" />
         </mxCell>
         <mxCell id="2uPkbhh_occvSilXfOJq-6" parent="1" style="swimlane;startSize=30;" value="2026-04&#xa;至 2026-06" vertex="1">
           <mxGeometry height="150" width="130" x="530" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="2uPkbhh_occvSilXfOJq-21" parent="2uPkbhh_occvSilXfOJq-6" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:&amp;quot;微软雅黑&amp;quot;,sans-serif;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;实现&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&lt;br/&gt;12.0pt;font-family:&amp;quot;微软雅黑&amp;quot;,sans-serif;mso-bidi-font-family:微软雅黑;mso-font-kerning:&lt;br/&gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;融合视觉增强信息的混合推理框架&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="114" x="6" y="60" as="geometry" />
+        <mxCell id="2uPkbhh_occvSilXfOJq-21" parent="2uPkbhh_occvSilXfOJq-6" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:&amp;quot;微软雅黑&amp;quot;,sans-serif;mso-bidi-font-family:微软雅黑;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;实现面向表格推理的混合推理框架中推理路径的自适应构建&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="114" x="8" y="50" as="geometry" />
         </mxCell>
         <mxCell id="2uPkbhh_occvSilXfOJq-22" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=0;horizontal=0;horizontalStack=1;" value="" vertex="1">
           <mxGeometry height="150" width="380" x="224" y="420" as="geometry">
