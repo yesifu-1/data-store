@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
   <diagram name="第 1 页" id="qhleMlPgjZyMwFpL24LH">
-    <mxGraphModel dx="1107" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="759" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PiEL8k6BqmX2Rw8nZB8h-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
-          <mxGeometry height="90" width="360" x="50" y="260" as="geometry" />
+          <mxGeometry height="70" width="360" x="50" y="260" as="geometry" />
         </mxCell>
         <mxCell id="PiEL8k6BqmX2Rw8nZB8h-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
-          <mxGeometry height="70" width="370" x="45" y="455" as="geometry" />
+          <mxGeometry height="70" width="370" x="44" y="440" as="geometry" />
         </mxCell>
         <mxCell id="PiEL8k6BqmX2Rw8nZB8h-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
-          <mxGeometry height="90" width="370" x="45" y="355" as="geometry" />
+          <mxGeometry height="90" width="370" x="44" y="340" as="geometry" />
         </mxCell>
         <mxCell id="PiEL8k6BqmX2Rw8nZB8h-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;面向表格推理的混合推理框架中推理路径的自适应构建&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="370" x="40" y="220" as="geometry" />
@@ -19,59 +19,50 @@
         <mxCell id="PiEL8k6BqmX2Rw8nZB8h-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="自适应推理循环" vertex="1">
           <mxGeometry height="20" width="200" x="120" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="PiEL8k6BqmX2Rw8nZB8h-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="增强型决策规划器 " vertex="1">
-          <mxGeometry height="20" width="110" x="85" y="290" as="geometry" />
-        </mxCell>
-        <mxCell id="PiEL8k6BqmX2Rw8nZB8h-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="执行器" vertex="1">
-          <mxGeometry height="20" width="116.75" x="263.25" y="290" as="geometry" />
+        <mxCell id="PiEL8k6BqmX2Rw8nZB8h-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="增强型决策规划器，执行器，反思器等多个模块的构建" vertex="1">
+          <mxGeometry height="30" width="315" x="60" y="290" as="geometry" />
         </mxCell>
         <mxCell id="PiEL8k6BqmX2Rw8nZB8h-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="知识库与自进化机制" vertex="1">
-          <mxGeometry height="20" width="190" x="135" y="355" as="geometry" />
+          <mxGeometry height="20" width="190" x="134" y="340" as="geometry" />
         </mxCell>
         <mxCell id="PiEL8k6BqmX2Rw8nZB8h-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="[数据存储] 自进化模板树知识库" vertex="1">
-          <mxGeometry height="20" width="370" x="45" y="385" as="geometry" />
+          <mxGeometry height="20" width="370" x="44" y="370" as="geometry" />
         </mxCell>
         <mxCell id="PiEL8k6BqmX2Rw8nZB8h-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="路由检索批判模板" vertex="1">
-          <mxGeometry height="20" width="180" x="142.5" y="415" as="geometry" />
+          <mxGeometry height="20" width="180" x="141.5" y="400" as="geometry" />
         </mxCell>
         <mxCell id="PiEL8k6BqmX2Rw8nZB8h-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="[智能体] “档案员”智能体&amp;nbsp;" vertex="1">
-          <mxGeometry height="20" width="190" x="135" y="455" as="geometry" />
+          <mxGeometry height="20" width="190" x="134" y="440" as="geometry" />
         </mxCell>
         <mxCell id="PiEL8k6BqmX2Rw8nZB8h-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="复盘与模式提取&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="100" x="45" y="485" as="geometry" />
+          <mxGeometry height="30" width="100" x="44" y="470" as="geometry" />
         </mxCell>
         <mxCell id="PiEL8k6BqmX2Rw8nZB8h-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font&gt;发现新错误类型/领域&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="165" y="485" as="geometry" />
+          <mxGeometry height="30" width="130" x="164" y="470" as="geometry" />
         </mxCell>
         <mxCell id="PiEL8k6BqmX2Rw8nZB8h-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;执行垂直/水平扩展&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="100" x="315" y="485" as="geometry" />
+          <mxGeometry height="30" width="100" x="314" y="470" as="geometry" />
         </mxCell>
         <mxCell id="PiEL8k6BqmX2Rw8nZB8h-52" edge="1" parent="1" source="PiEL8k6BqmX2Rw8nZB8h-46" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="PiEL8k6BqmX2Rw8nZB8h-48" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="155" y="515" as="sourcePoint" />
-            <mxPoint x="155" y="535" as="targetPoint" />
+            <mxPoint x="154" y="500" as="sourcePoint" />
+            <mxPoint x="154" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PiEL8k6BqmX2Rw8nZB8h-53" edge="1" parent="1" source="PiEL8k6BqmX2Rw8nZB8h-48" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="PiEL8k6BqmX2Rw8nZB8h-50" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="265" y="499.83000000000004" as="sourcePoint" />
-            <mxPoint x="285" y="499.83000000000004" as="targetPoint" />
+            <mxPoint x="264" y="484.83000000000004" as="sourcePoint" />
+            <mxPoint x="284" y="484.83000000000004" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="G47onhJqjq0_PGn5Zyyf-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="反思器" vertex="1">
-          <mxGeometry height="20" width="110" x="85" y="320" as="geometry" />
         </mxCell>
         <mxCell id="G47onhJqjq0_PGn5Zyyf-7" edge="1" parent="1" source="PiEL8k6BqmX2Rw8nZB8h-34" style="endArrow=classic;html=1;rounded=0;exitX=0.833;exitY=0.987;exitDx=0;exitDy=0;entryX=1.001;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="PiEL8k6BqmX2Rw8nZB8h-40" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="428" />
+              <mxPoint x="350" y="413" />
             </Array>
             <mxPoint x="370" y="320" as="sourcePoint" />
             <mxPoint x="370" y="350" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="fSxMEQsQDlW7U3_vCJC5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="优化器" vertex="1">
-          <mxGeometry height="20" width="116.75" x="263.25" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
