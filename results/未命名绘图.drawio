@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
   <diagram name="第 1 页" id="qhleMlPgjZyMwFpL24LH">
-    <mxGraphModel dx="896" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1107" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,14 +19,11 @@
         <mxCell id="PiEL8k6BqmX2Rw8nZB8h-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="自适应推理循环" vertex="1">
           <mxGeometry height="20" width="200" x="120" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="PiEL8k6BqmX2Rw8nZB8h-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="用户查询 &amp;amp; 表格数据" vertex="1">
-          <mxGeometry height="20" width="123.5" x="78.25" y="290" as="geometry" />
-        </mxCell>
         <mxCell id="PiEL8k6BqmX2Rw8nZB8h-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="增强型决策规划器 " vertex="1">
-          <mxGeometry height="20" width="110" x="240" y="290" as="geometry" />
+          <mxGeometry height="20" width="110" x="85" y="290" as="geometry" />
         </mxCell>
         <mxCell id="PiEL8k6BqmX2Rw8nZB8h-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="执行器" vertex="1">
-          <mxGeometry height="20" width="110" x="240" y="320" as="geometry" />
+          <mxGeometry height="20" width="116.75" x="263.25" y="290" as="geometry" />
         </mxCell>
         <mxCell id="PiEL8k6BqmX2Rw8nZB8h-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="知识库与自进化机制" vertex="1">
           <mxGeometry height="20" width="190" x="135" y="355" as="geometry" />
@@ -61,8 +58,8 @@
             <mxPoint x="285" y="499.83000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G47onhJqjq0_PGn5Zyyf-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="judge模型" vertex="1">
-          <mxGeometry height="20" width="120" x="80" y="320" as="geometry" />
+        <mxCell id="G47onhJqjq0_PGn5Zyyf-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="反思器" vertex="1">
+          <mxGeometry height="20" width="110" x="85" y="320" as="geometry" />
         </mxCell>
         <mxCell id="G47onhJqjq0_PGn5Zyyf-7" edge="1" parent="1" source="PiEL8k6BqmX2Rw8nZB8h-34" style="endArrow=classic;html=1;rounded=0;exitX=0.833;exitY=0.987;exitDx=0;exitDy=0;entryX=1.001;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="PiEL8k6BqmX2Rw8nZB8h-40" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -72,6 +69,9 @@
             <mxPoint x="370" y="320" as="sourcePoint" />
             <mxPoint x="370" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fSxMEQsQDlW7U3_vCJC5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="优化器" vertex="1">
+          <mxGeometry height="20" width="116.75" x="263.25" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
